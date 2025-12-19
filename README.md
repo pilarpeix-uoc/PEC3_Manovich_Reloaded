@@ -3,6 +3,7 @@ Ensayo sobre la hibridación en dos casos: Resident Evil Village y Mansiones de 
 Pilar Peix. Cultura Digital.
 
 # La hibridación estética y técnica en Resident Evil Village
+![Figura 1](resident evil village.webp)
 Resident Evil Village es un videojuego de terror en primera persona donde el jugador tendrá que explorar su historia en torno a un pueblo. 
 Para poder analizar las diferentes técnicas que engloban este videojuegos, nos tenemos que ir a la teoría de la hibridación de Lev Manovich (2013)[^2], en la que afirma que un videojuego combina técnicas y lenguajes procedentes de medios muy diferentes. Estos medios se mezclan en un software y pasan a coexistir dentro de un mismo entorno.
 
@@ -56,5 +57,5 @@ En definitiva, ambos casos nos permiten entender que la cultura digital no está
 [^7]: There Will Be Games. (2016). Mansions of Madness Q&A. *There Will Be Games*. https://therewillbe.games/articles-interviews/5641-mansions-of-madness-q-a/
 [^8]: Tudor, S. (2017). Mansions of Madness Second Edition Review. *Polyhedron Collider*. https://www.polyhedroncollider.com/2017/09/mansions-of-madness-second-edition.html
 
-## Uso de la inteligencia artificial
+# Uso de la inteligencia artificial
 Este trabajo ha contado con apoyo puntual de ChatGPT (OpenAI, 2025) para tareas de documentación y revisión de la redacción de los textos. 
