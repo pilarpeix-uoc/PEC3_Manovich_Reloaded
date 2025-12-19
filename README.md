@@ -3,7 +3,7 @@ Ensayo sobre la hibridación en dos casos: Resident Evil Village y Mansiones de 
 Pilar Peix. Cultura Digital.
 
 # La hibridación estética y técnica en Resident Evil Village
-!([Figura 1. Portada Resident Evil Village](https://github.com/pilarpeix-uoc/PEC3_Manovich_Reloaded/blob/4e6c0d4f0dc7237acb491166fc4f482296ae98f1/resident%20evil%20village.webp))
+![Figura 1. Portada Resident Evil Village](https://github.com/pilarpeix-uoc/PEC3_Manovich_Reloaded/blob/4e6c0d4f0dc7237acb491166fc4f482296ae98f1/resident%20evil%20village.webp)
 Resident Evil Village es un videojuego de terror en primera persona donde el jugador tendrá que explorar su historia en torno a un pueblo. 
 Para poder analizar las diferentes técnicas que engloban este videojuegos, nos tenemos que ir a la teoría de la hibridación de Lev Manovich (2013)[^2], en la que afirma que un videojuego combina técnicas y lenguajes procedentes de medios muy diferentes. Estos medios se mezclan en un software y pasan a coexistir dentro de un mismo entorno.
 
