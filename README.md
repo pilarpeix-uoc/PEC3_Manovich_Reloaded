@@ -15,4 +15,4 @@ Además de integrar lenguaje cinematográfico, podemos ver en este caso que, a l
 
 # Fuentes / Bibliografía
 
-[1]: Martínez, D. (2021). Resident Evil 8 Village: Análisis de una evolución perfecta del survival horror. *HobbyConsolas*. https://www.hobbyconsolas.com/reviews/resident-evil-8-village-analisis-evolucion-perfecta-survival-horror-856603
+Martínez, D. (2021). Resident Evil 8 Village: Análisis de una evolución perfecta del survival horror. *HobbyConsolas*. https://www.hobbyconsolas.com/reviews/resident-evil-8-village-analisis-evolucion-perfecta-survival-horror-856603 [1]: https://www.hobbyconsolas.com/reviews/resident-evil-8-village-analisis-evolucion-perfecta-survival-horror-856603
