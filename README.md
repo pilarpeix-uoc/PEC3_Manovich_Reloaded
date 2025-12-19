@@ -55,3 +55,6 @@ En definitiva, ambos casos nos permiten entender que la cultura digital no está
 [^6]: Ronie, B. (2016). (Single-Player) Mansions of Madness 2nd Edition Review – There’s a mystery to solve. *Wolf’s Gaming Blog*. https://wolfsgamingblog.com/2016/08/30/single-player-mansions-of-madness-2nd-edition-review-theres-a-mystery-to-solve/
 [^7]: There Will Be Games. (2016). Mansions of Madness Q&A. *There Will Be Games*. https://therewillbe.games/articles-interviews/5641-mansions-of-madness-q-a/
 [^8]: Tudor, S. (2017). Mansions of Madness Second Edition Review. *Polyhedron Collider*. https://www.polyhedroncollider.com/2017/09/mansions-of-madness-second-edition.html
+
+## Uso de la inteligencia artificial
+Este trabajo ha contado con apoyo puntual de ChatGPT (OpenAI, 2025) para tareas de documentación y revisión de la redacción de los textos. 
