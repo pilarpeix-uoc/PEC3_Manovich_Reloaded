@@ -11,9 +11,12 @@ En Resident Evil Village, podemos ver que la hibridación se manifiesta en la in
 
 Además de integrar lenguaje cinematográfico, podemos ver en este caso que, a la hibridación de diferentes medios, se añade una hibridación espacial y arquitectónica. Un ejemplo claro de esta teoría, es el diseño del castillo Dimitrescu, del pueblo y de los espacios interiores que combina referentes de la arquitectura gótica, el folclore europeo y el survival horror clásico. Estos espacios no son sólo escenarios, sino que son sistemas interactivos para crear una atmósfera. El espacio arquitectónico se convierte en un dispositivo narrativo y lúdico, formado por técnicas de modelado 3D, simulación física y narrativa[^1].
 
+## Personajes casi "Shakespearianos"
+En cuanto al diseño de personajes, están a la altura de una producción cinematográfica. Según el director de arte Tomonori Takano, el diseño de Lady Dimitrescu tomó varias inspiraciones, desde la condesa sangrienta Elizabeth Báthory y la leyenda japonesa de Hasshaku-sama, hasta la estética de Morticia Addams, para lograr una villana aristocrática única.[^2]
+
 # La reconfiguración del tablero de juego en Mansiones de la locura
 
 # Fuentes / Bibliografía
 
 [^1]: Martínez, D. (2021). Resident Evil 8 Village: Análisis de una evolución perfecta del survival horror. *HobbyConsolas*. https://www.hobbyconsolas.com/reviews/resident-evil-8-village-analisis-evolucion-perfecta-survival-horror-856603 
-
+[^2]: Palumbo, A. (2021). Capcom’s art director talks inspirations for Lady Dimitrescu, says hers is only a section of Resident Evil Village. *Wccftech*. https://wccftech.com/capcoms-art-director-talks-inspirations-for-lady-dimitrescu-says-hers-is-only-a-section-of-resident-evil-village/
